@@ -1,5 +1,5 @@
-gem 'sinatra', '~> 1.4.0'
-gem 'octokit'
+gem 'sinatra', '~> 1.4.4'
+gem 'octokit', '~> 2.0'
 source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
